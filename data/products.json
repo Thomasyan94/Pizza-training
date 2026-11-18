@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 1,
+  "currency": "MYR",
+  "products": [
+    {
+      "id": "pep",
+      "image": "assets/products/pepperoni.webp",
+      "defaultSizeId": "medium",
+      "sizes": [
+        {
+          "id": "personal",
+          "label": "Personal",
+          "priceMinor": 1990
+        },
+        {
+          "id": "medium",
+          "label": "Medium",
+          "priceMinor": 3290
+        },
+        {
+          "id": "large",
+          "label": "Large",
+          "priceMinor": 4290
+        }
+      ]
+    },
+    {
+      "id": "haw",
+      "image": "assets/products/hawaiian.webp",
+      "defaultSizeId": "medium",
+      "sizes": [
+        {
+          "id": "personal",
+          "label": "Personal",
+          "priceMinor": 2190
+        },
+        {
+          "id": "medium",
+          "label": "Medium",
+          "priceMinor": 3490
+        },
+        {
+          "id": "large",
+          "label": "Large",
+          "priceMinor": 4490
+        }
+      ]
+    },
+    {
+      "id": "sup",
+      "image": "assets/products/supreme.webp",
+      "defaultSizeId": "medium",
+      "sizes": [
+        {
+          "id": "personal",
+          "label": "Personal",
+          "priceMinor": 2390
+        },
+        {
+          "id": "medium",
+          "label": "Medium",
+          "priceMinor": 3690
+        },
+        {
+          "id": "large",
+          "label": "Large",
+          "priceMinor": 4890
+        }
+      ]
+    }
+  ]
+}

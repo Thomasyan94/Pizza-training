@@ -1,0 +1,102 @@
+{
+  "layers": [
+    {
+      "name": "crust",
+      "src": "assets/pizza-layers/crust.webp",
+      "x": 7.0,
+      "y": 53.46,
+      "w": 86
+    },
+    {
+      "name": "sauce",
+      "src": "assets/pizza-layers/sauce.webp",
+      "x": 10.0,
+      "y": 40.0,
+      "w": 80
+    },
+    {
+      "name": "cheese",
+      "src": "assets/pizza-layers/cheese.webp",
+      "x": 9.0,
+      "y": 26.46,
+      "w": 82
+    },
+    {
+      "name": "pepperoni",
+      "src": "assets/pizza-layers/pepperoni.webp",
+      "x": 17.0,
+      "y": 20.83,
+      "w": 66
+    },
+    {
+      "name": "sausage",
+      "src": "assets/pizza-layers/sausage.webp",
+      "x": 18.0,
+      "y": 12.33,
+      "w": 64
+    },
+    {
+      "name": "veg",
+      "src": "assets/pizza-layers/veg.webp",
+      "x": 25.0,
+      "y": 8.5,
+      "w": 50
+    },
+    {
+      "name": "olives",
+      "src": "assets/pizza-layers/olives.webp",
+      "x": 23.0,
+      "y": 2.42,
+      "w": 54
+    }
+  ],
+  "stageVh": 100,
+  "ctaLead": 0.8,
+  "colors": [
+    [
+      42,
+      26,
+      16
+    ],
+    [
+      64,
+      13,
+      12
+    ],
+    [
+      78,
+      52,
+      16
+    ],
+    [
+      80,
+      24,
+      10
+    ],
+    [
+      56,
+      28,
+      16
+    ],
+    [
+      24,
+      52,
+      30
+    ],
+    [
+      44,
+      22,
+      48
+    ],
+    [
+      110,
+      14,
+      16
+    ]
+  ],
+  "entryLead": 0.9,
+  "entryDuration": 0.8,
+  "opacityGain": 2.2,
+  "mobileDrop": 0.55,
+  "desktopDrop": 0.95
+}

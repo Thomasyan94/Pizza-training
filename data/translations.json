@@ -1,0 +1,206 @@
+{
+  "zh": {
+    "h1": "一层一层，做出你的 Pizza",
+    "hint": "向下滚动",
+    "order": "立即订购",
+    "pick": "选一款口味",
+    "demo": "价格为示范价，不是官方价格。",
+    "add": "加入购物车",
+    "cart": "购物车",
+    "empty": "购物车是空的，先选一款 pizza。",
+    "total": "合计",
+    "checkout": "去结账",
+    "name": "姓名",
+    "phone": "电话",
+    "note": "备注（可不填）",
+    "place": "提交订单",
+    "back": "返回购物车",
+    "err": "请填写姓名和电话。",
+    "doneT": "订单已提交（示范）",
+    "doneP": "这是练习网站，不会真的送出订单。",
+    "again": "继续点餐",
+    "foot": "练习作品，非官方网站。",
+    "hot": "订购热线（可能已变更）：",
+    "rm": "移除",
+    "products": {
+      "pep": {
+        "name": "Pepperoni",
+        "description": "经典香肠加满满芝士。"
+      },
+      "haw": {
+        "name": "Hawaiian",
+        "description": "火腿配菠萝，酸甜好味。"
+      },
+      "sup": {
+        "name": "Supreme",
+        "description": "肉类蔬菜全都有，料最丰富。"
+      }
+    },
+    "captions": {
+      "crust": {
+        "title": "松软饼底",
+        "description": "每一片 pizza，都从金黄的饼底开始。"
+      },
+      "sauce": {
+        "title": "浓郁酱料",
+        "description": "鲜红番茄酱，铺得刚刚好。"
+      },
+      "cheese": {
+        "title": "拉丝芝士",
+        "description": "满满马苏里拉，烤到金黄冒泡。"
+      },
+      "pepperoni": {
+        "title": "香肠片",
+        "description": "带一点辣的经典味道。"
+      },
+      "sausage": {
+        "title": "香肠粒",
+        "description": "每一口都有肉香。"
+      },
+      "veg": {
+        "title": "新鲜蔬菜",
+        "description": "洋葱和青红椒，清脆爽口。"
+      },
+      "olives": {
+        "title": "黑橄榄",
+        "description": "最后一点点缀，完成！"
+      }
+    }
+  },
+  "en": {
+    "h1": "Layer by layer, your pizza",
+    "hint": "Scroll down",
+    "order": "Order now",
+    "pick": "Pick your flavour",
+    "demo": "Prices are demo prices, not official.",
+    "add": "Add to cart",
+    "cart": "Cart",
+    "empty": "Your cart is empty. Pick a pizza first.",
+    "total": "Total",
+    "checkout": "Checkout",
+    "name": "Name",
+    "phone": "Phone",
+    "note": "Note (optional)",
+    "place": "Place order",
+    "back": "Back to cart",
+    "err": "Please enter your name and phone.",
+    "doneT": "Order placed (demo)",
+    "doneP": "This is a practice site, so no order is sent.",
+    "again": "Order more",
+    "foot": "Practice project, not the official website.",
+    "hot": "Order hotline (may have changed):",
+    "rm": "Remove",
+    "products": {
+      "pep": {
+        "name": "Pepperoni",
+        "description": "Classic pepperoni with plenty of cheese."
+      },
+      "haw": {
+        "name": "Hawaiian",
+        "description": "Ham and pineapple, sweet meets savoury."
+      },
+      "sup": {
+        "name": "Supreme",
+        "description": "Meats and veggies, loaded with everything."
+      }
+    },
+    "captions": {
+      "crust": {
+        "title": "The base",
+        "description": "Every pizza starts with a golden crust."
+      },
+      "sauce": {
+        "title": "Rich sauce",
+        "description": "Tangy tomato sauce, spread just right."
+      },
+      "cheese": {
+        "title": "Melty cheese",
+        "description": "Mozzarella baked golden and bubbly."
+      },
+      "pepperoni": {
+        "title": "Pepperoni",
+        "description": "The classic with a little kick."
+      },
+      "sausage": {
+        "title": "Sausage",
+        "description": "Savoury bites in every slice."
+      },
+      "veg": {
+        "title": "Fresh veggies",
+        "description": "Crisp onions and bell peppers."
+      },
+      "olives": {
+        "title": "Olives",
+        "description": "The finishing touch. Done!"
+      }
+    }
+  },
+  "ms": {
+    "h1": "Lapisan demi lapisan, pizza anda",
+    "hint": "Tatal ke bawah",
+    "order": "Pesan sekarang",
+    "pick": "Pilih perisa anda",
+    "demo": "Harga ialah harga demo, bukan harga rasmi.",
+    "add": "Tambah ke troli",
+    "cart": "Troli",
+    "empty": "Troli kosong. Pilih pizza dahulu.",
+    "total": "Jumlah",
+    "checkout": "Bayar",
+    "name": "Nama",
+    "phone": "Telefon",
+    "note": "Nota (pilihan)",
+    "place": "Hantar pesanan",
+    "back": "Kembali ke troli",
+    "err": "Sila isi nama dan nombor telefon.",
+    "doneT": "Pesanan dihantar (demo)",
+    "doneP": "Ini laman web latihan, tiada pesanan dihantar.",
+    "again": "Pesan lagi",
+    "foot": "Projek latihan, bukan laman web rasmi.",
+    "hot": "Talian pesanan (mungkin telah berubah):",
+    "rm": "Buang",
+    "products": {
+      "pep": {
+        "name": "Pepperoni",
+        "description": "Pepperoni klasik dengan banyak keju."
+      },
+      "haw": {
+        "name": "Hawaiian",
+        "description": "Ham dan nanas, manis bertemu masin."
+      },
+      "sup": {
+        "name": "Supreme",
+        "description": "Daging dan sayur, penuh dengan segala-galanya."
+      }
+    },
+    "captions": {
+      "crust": {
+        "title": "Asas pizza",
+        "description": "Setiap pizza bermula dengan kerak keemasan."
+      },
+      "sauce": {
+        "title": "Sos pekat",
+        "description": "Sos tomato berperisa, disapu sekata."
+      },
+      "cheese": {
+        "title": "Keju lekat",
+        "description": "Mozzarella dibakar keemasan dan berbuih."
+      },
+      "pepperoni": {
+        "title": "Pepperoni",
+        "description": "Perisa klasik dengan sedikit pedas."
+      },
+      "sausage": {
+        "title": "Sosej",
+        "description": "Gigitan berperisa dalam setiap hirisan."
+      },
+      "veg": {
+        "title": "Sayur segar",
+        "description": "Bawang dan lada benggala yang rangup."
+      },
+      "olives": {
+        "title": "Zaitun",
+        "description": "Sentuhan akhir. Siap!"
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "logo": "assets/brand/logo.png",
+  "defaultLanguage": "zh",
+  "languages": [
+    "zh",
+    "en",
+    "ms"
+  ],
+  "mode": "demo",
+  "website": "https://www.pizzahut.com.my",
+  "telephone": "tel:+601300882525"
+}
